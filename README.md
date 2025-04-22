@@ -1,4 +1,4 @@
-# 🕵️‍♂️ AIFindr — AI-Powered People Discovery Engine
+# AIFindr — AI-Powered People Discovery Engine
 
 AIFindr is a cutting-edge AI-powered platform that helps users discover like-minded people based on **vibe**, **interests**, and **goals**. Just type a natural sentence like:
 
@@ -11,7 +11,7 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/21a90dc6-872b-4b1d-b276-ad5657ed0031" />
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |------|------|
@@ -23,17 +23,17 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 
 ---
 
-## ✨ Features
+## Features
 
-- 💡 **Semantic search** powered by OpenAI embeddings
-- 🔎 **Real-time vibe matching** with pgvector
-- 🧠 AI-graded **persona similarity score**
-- 🖼️ **Profile pictures** via [randomuser.me](https://randomuser.me)
-- 🌈 Elegant UI with responsive design
+-  **Semantic search** powered by OpenAI embeddings
+-  **Real-time vibe matching** with pgvector
+-  AI-graded **persona similarity score**
+-  **Profile pictures** via [randomuser.me](https://randomuser.me)
+-  Elegant UI with responsive design
 
 ---
 
-## ✨ Project setup
+## Project setup
 
 Create .env.local file
 ```# .env.local
