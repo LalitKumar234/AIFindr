@@ -16,15 +16,12 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 | Backend | [Supabase](https://supabase.com) (PostgreSQL + Auth + Storage + Edge Functions) |
 | AI Engine | [OpenAI Embeddings API](https://platform.openai.com/docs/guides/embeddings) |
 | Vector Search | pgvector extension inside Supabase |
-| Authentication | Supabase Auth |
 | Deployment Ready | Vercel or any Next.js compatible host |
 
 ---
 
 ## ✨ Features
 
-- 🔐 **Auth with Supabase** (email login/signup)
-- 🧭 **User onboarding** with interests, goals, vibe, and location
 - 💡 **Semantic search** powered by OpenAI embeddings
 - 🔎 **Real-time vibe matching** with pgvector
 - 🧠 AI-graded **persona similarity score**
@@ -32,3 +29,11 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 - 🌈 Elegant UI with responsive design
 
 ---
+
+## ✨ Project setup
+```# .env.local
+
+OPENAI_API_KEY=your-openai-api-key
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+```
