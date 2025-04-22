@@ -8,6 +8,9 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 
 ---
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/21a90dc6-872b-4b1d-b276-ad5657ed0031" />
+
+
 ## 🚀 Tech Stack
 
 | Layer | Tech |
