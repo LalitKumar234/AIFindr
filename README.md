@@ -31,9 +31,14 @@ AIFindr is a cutting-edge AI-powered platform that helps users discover like-min
 ---
 
 ## ✨ Project setup
-```# .env.local
 
+Create .env.local file
+```# .env.local
 OPENAI_API_KEY=your-openai-api-key
 NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
+
+```npm install```
+
+```npm run dev```
